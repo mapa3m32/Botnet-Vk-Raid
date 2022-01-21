@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 import requests, vk_api, random,time,traceback,json,importlib
 try:
-	import info
-	import pod
+КАК С ТОЬОЙ связаться дружище
+	import od
 except:
 	pass
 from threading import Thread
